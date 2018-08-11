@@ -1,5 +1,6 @@
 # kernelModule-driver
 Example kernel module (linux driver) based on https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os
+and http://freesoftwaremagazine.com/articles/drivers_linux/
 
 # Kernel used 4.15.0-29-generic
 
